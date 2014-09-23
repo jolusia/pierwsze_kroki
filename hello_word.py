@@ -1,3 +1,6 @@
 __author__ = 'jolka'
 
-print "hello word"
+imie="jola"
+nazwisko="ozog"
+
+print "czesc %s mamy piekny dzien %s" % (imie,nazwisko)
