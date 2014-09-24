@@ -5,4 +5,4 @@ nazwisko="ozog"
 
 # tak sie wyswietla text i podstawia zmienne
 
-print "czesc %s mamy piekny dzien %s" % (imie,nazwisko)
+print "czesc %s %s. Mamy piekny dzien" % (imie,nazwisko)

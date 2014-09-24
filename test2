@@ -1,0 +1,2 @@
+imie="seweryn"
+print "juz cos probuje pisac %s" % (imie)
