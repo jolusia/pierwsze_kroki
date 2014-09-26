@@ -1,3 +1,4 @@
 print "Witaj!"
+# tak sie wprowadza dane od uzytkownika- raw_input, \n powoduje zmiane linii na ta ponizej
 imie = raw_input("Jak masz na imie?\n")
 print "Czesc ",imie,"!"
