@@ -1,4 +1,13 @@
 print "Witaj!"
 # tak sie wprowadza dane od uzytkownika- raw_input, \n powoduje zmiane linii na ta ponizej
 imie = raw_input("Jak masz na imie?\n")
-print "Czesc ",imie,"!"
+print "1. Czescs",imie,"!"
+print "2. Czesc %s !" % (imie)
+
+# 1 jak masz na imie
+# odpowiedz
+# jesli wpisze jolka to ma wypisac czesc jolka jestes kobieta
+# jesli wpisze seweryn ma wypisac czesc seweryn jest mezczyzna
+# w pozsotalych przypdkach (inne odpo) ma napisac czesc nie wiem jaka masz plec
+
+# podpowiedz google, ksiazke if, elif, else
